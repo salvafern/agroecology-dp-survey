@@ -1,0 +1,5 @@
+question_id,question_text,question_type,answer_type,options,cardinality
+Q1,What is your age?,single numeric,integer,NA,1..1
+Q2,What is your gender?,single choice,string,"female;male;other",1..1
+Q3,How satisfied are you with the platform?,single choice,integer,"1;2;3;4;5",1..1
+Q4,What would you improve in the platform?,open text,string,NA,0..1
